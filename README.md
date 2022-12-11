@@ -10,3 +10,6 @@
 7. **i18next** - internationalization framework.
 8. **React Hook Form** - a library that helps to validate forms in React
 9. **React Beautiful DnD** - an accessible drag and drop library from Atlassian.
+10. CI/CD
+
+Deploy: https://management-app-48075.web.app/
