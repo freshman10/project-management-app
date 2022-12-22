@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://final-task-backend-production-d31d.up.railway.app';
+export const BASE_URL = 'https://final-task-backend-production-9cb1.up.railway.app';
 export const LINKS = {
   welcome: `/`,
   search: '/search',
